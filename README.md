@@ -1,2 +1,2 @@
-# HelloWold
+# HelloWorld
 git練習用
